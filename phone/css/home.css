@@ -1,0 +1,90 @@
+.version.home /* version checker */
+{
+	color: #00001F;
+	background-color: #46D173;
+}
+
+@-ms-viewport
+{
+	width: 380px;
+}
+
+@-webkit-viewport
+{
+	width: 380px;
+}
+
+@-o-viewport
+{
+	width: 380px;
+}
+
+@-moz-viewport
+{
+	width: 380px;
+}
+
+@viewport
+{
+	width: 380px;
+}
+
+.html
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	width: 380px;
+	min-height: 71px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 499px;
+}
+
+#u1296
+{
+	z-index: 2;
+	min-height: 70px;
+	padding-bottom: 1px;
+}
+
+#u1297
+{
+	z-index: 3;
+	width: 69px;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 10px;
+}
+
+#u1309
+{
+	z-index: 5;
+	width: 173px;
+	margin-right: -10000px;
+	margin-top: 10px;
+	left: 104px;
+}
+
+#u1296-bw
+{
+	z-index: 2;
+	min-height: 70px;
+}
+
+body
+{
+	position: relative;
+	min-width: 380px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
